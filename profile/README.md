@@ -1,3 +1,1 @@
-<p align="center"><img src="https://cdn.shopify.com/s/files/1/0262/3550/2666/files/Star-Kingdom-Logo---Final-png-trimmed-long_1a6a547a-3d60-427a-8e2f-ffe31d85113f_540x.png?v=1672922369"/></p>
-
-<h2 align="center">Star Kingdom Market Place</h2>
+<p align="center"><a href="https://www.starkingdomstore.com/" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0262/3550/2666/files/Star-Kingdom-Logo---Final-png-trimmed-long_1a6a547a-3d60-427a-8e2f-ffe31d85113f_540x.png?v=1672922369"/></a></p>
